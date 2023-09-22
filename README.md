@@ -1,5 +1,5 @@
 - 👋 Hi penguins!, I’m @ramackersjp
-- 👀 I’m interested in Codes, Blockchain, Webserverses, running nodes, OS + print:("too much too tell!")
+- 👀 I’m interested in Codes, Blockchain, Webserverses, running nodes, OS + print:("too much to tell!")
 
 
 <!---
