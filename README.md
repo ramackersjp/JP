@@ -1,4 +1,4 @@
-- 👋 Hi penguins!, I’m @ramackersjp
+- 👋 Hi penguins!, I’m J.P.
 - 👀 I’m interested in Codes, Blockchain, Webserverses, running nodes, OS + print:("too much to tell!")
 
 
